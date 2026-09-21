@@ -1,0 +1,86 @@
+{
+    "updatedAt": "2026-09-17T10:00:00Z",
+    "total": 4,
+    "data": [
+        {
+            "code": "UFO-MAX-1800-N",
+            "price": 6749,
+            "old_price": null,
+            "availability": true,
+            "stock": 200,
+              "warehouses": [
+                { "id": "Kyiv", "stock": 100 },
+                { "id": "Boyarka", "stock": 100 }
+            ],
+            "warranty_type": "manufacturer",
+            "warranty_period": 24,
+            "max_pay_in_parts": 14,
+            "days_to_dispatch": 6,
+            "manufacture": {
+                "country_code": "TR",
+                "year": null
+            }
+        },
+       
+        {
+            "code": "UFO-MAX-2300-N",
+            "price": 7199,
+            "old_price": null,
+            "availability": true,
+            "stock": 200,
+            ""warehouses": [
+                { "id": "Kyiv", "stock": 100 },
+                { "id": "Boyarka", "stock": 100 }
+            ],
+            "warranty_type": "manufacturer",
+            "warranty_period": 24,
+            "max_pay_in_parts": 14,
+            "days_to_dispatch": 6,
+            "manufacture": {
+                "country_code": "TR",
+                "year": null
+            }
+        },
+        {
+            "code": "UFO-ECO-TERM-2000",
+            "price": 5849,
+            "old_price": null,
+            "availability": true,
+            "stock": 200,
+            "warehouses": [
+                { "id": "Kyiv", "stock": 100 },
+                { "id": "Boyarka", "stock": 100 }
+            ],
+            "warranty_type": "manufacturer",
+            "warranty_period": 24,
+            "max_pay_in_parts": 14,
+            "days_to_dispatch": 6,
+            "manufacture": {
+                "country_code": "TR",
+                "year": null
+            }
+        },
+        {
+            "code": "UFO-MAX-2900-N",
+            "price": 8649,
+            "old_price": null,
+            "availability": true,
+            "stock": 2000,
+            "warehouses": [
+                { "id": "Kyiv", "stock": 100 },
+                { "id": "Boyarka", "stock": 100 }
+            ],
+            "warranty_type": "manufacturer",
+            "warranty_period": 24,
+            "max_pay_in_parts": 14,
+            "days_to_dispatch": 6,
+            "manufacture": {
+                "country_code": "TR",
+                "year": null
+            }
+       
+     
+       
+        }
+    ]
+}
