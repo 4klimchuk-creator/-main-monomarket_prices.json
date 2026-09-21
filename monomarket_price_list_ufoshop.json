@@ -27,7 +27,7 @@
             "old_price": null,
             "availability": true,
             "stock": 200,
-            ""warehouses": [
+            "warehouses": [
                 { "id": "Kyiv", "stock": 100 },
                 { "id": "Boyarka", "stock": 100 }
             ],
